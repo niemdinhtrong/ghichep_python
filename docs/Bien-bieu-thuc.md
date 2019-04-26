@@ -46,7 +46,7 @@ Biến có thể có cả số nhưng không được đặt số ở đầu.
 
 Các key word không được sử dụng làm biến 
 
-![]()
+![](/images/1.png)
 
 ## Câu lệnh
 
